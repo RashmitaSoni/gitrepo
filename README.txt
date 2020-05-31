@@ -1,3 +1,3 @@
-Hi First Git File.
+Hi First Git File
 Adding Second Content
 Adding Develop branch commit
